@@ -18,7 +18,7 @@ Developed by: ArunKumar.T
 Register Number:  212222040017
 */
 ```
-```
+```python
 global N
 N = int(input())
 
