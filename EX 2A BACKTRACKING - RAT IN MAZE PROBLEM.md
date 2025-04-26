@@ -18,7 +18,7 @@ Developed by: ArunKumar.T
 Register Number:  212222040017
 */
 ```
-```
+```python
 N = 4
  
 def printSolution(sol):
